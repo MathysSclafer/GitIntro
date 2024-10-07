@@ -5,5 +5,7 @@ public class Main {
         System.out.println("master");
         System.out.println("master");
         System.out.println("123");
+
+        System.out.println("COMMIT BOUCLE");
     }
 }
