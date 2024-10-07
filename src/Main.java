@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hhzfjzedipi");
         System.out.println("master");
         System.out.println("master");
+        System.out.println("123");
     }
 }
